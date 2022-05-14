@@ -85,7 +85,7 @@
         "wallet-address-validator": "^0.2.4",
         "web3": "1.0.0-beta.36",
         "webpack": "^4.42.1",
-        "webpack-build-notifier": "^0.1.30",
+        "webpack-build-notifier": "^2.0.0",
         "webpack-bundle-analyzer": "^3.3.2",
         "whatwg-fetch": "^3.0.0",
         "yarn-run-all": "^3.1.1"
