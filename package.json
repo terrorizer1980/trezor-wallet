@@ -84,7 +84,7 @@
         "trezor-ui-components": "^1.0.0-beta.20",
         "wallet-address-validator": "^0.2.4",
         "web3": "1.0.0-beta.36",
-        "webpack": "^4.42.1",
+        "webpack": "^5.1.1",
         "webpack-build-notifier": "^0.1.30",
         "webpack-bundle-analyzer": "^3.3.2",
         "whatwg-fetch": "^3.0.0",
